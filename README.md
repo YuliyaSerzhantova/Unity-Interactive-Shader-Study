@@ -13,4 +13,4 @@ A study project for Technical Artist portfolio focused on visual feedback and in
 * **Scripting:** C# (Event-driven feedback)
 
 ## 📺 Demo
-![Shader Hover Demo](Assets/Screenshots/Semo.gif)
+![Shader Hover Demo](Assets/Screenshots/Demo.gif)
